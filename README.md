@@ -28,7 +28,7 @@
 
     <main>
         <section>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt magni odit impedit dolorem molestias
+            <p>Lorem ipsum dolor sit amt consectetur adipisicing elit. Sunt magni odit impedit dolorem molestias
                 doloremque sequi, eius dolorum ducimus optio, laborum quia exercitationem cum fugit iure nemo rem
                 tempore eaque illo itaque. Quibusdam culpa ea in aliquid fuga sunt alias molestias odio! Sed provident
                 natus hic cum cumque unde voluptatum!</p>
